@@ -39,6 +39,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('claims.index') }}">Claims</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('hmos.index') }}">Hmos</a>
+                    </li>
                 </ul>
 
 
